@@ -1,5 +1,5 @@
 ---
-title: "blog_post"
+title: "Ruri's brilliant HDS career blog"
 listing:
   contents: posts
   sort: "date desc"
